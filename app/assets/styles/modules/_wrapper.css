@@ -9,6 +9,10 @@
 	&--medium {
 		max-width: 975px;
 	}
+
+	&--narrow {
+		max-width: 470px;
+	}
 	
 
 	&--b-margin {
